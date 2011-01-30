@@ -1,0 +1,10 @@
+LANalive is a simple shell script which pings the host in LAN and 
+gives output in nicely formatted way.
+
+http://reversehack.in/projects/shell/LANalive
+
+Dependencies:
+    Gnome Terminal
+    
+Translations:
+    We'll setup that later
