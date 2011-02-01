@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author : Muneeb Shaikh (aka 'MasterOfMinds')
+#Author : Muneeb Shaikh 
 #E-mail : muneeb@reversehack.in
 #Created: 20 Jan, 2011
 
