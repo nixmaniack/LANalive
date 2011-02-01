@@ -1,2 +1,3 @@
+* Make script more generic to accept input as 192.168.1.1-100
 * Improve script
 * Try making simple GUI
