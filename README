@@ -5,6 +5,7 @@ http://reversehack.in/projects/shell/LANalive
 
 Dependencies:
     Gnome Terminal
+    notify-osd
     
 Translations:
     We'll setup that later
