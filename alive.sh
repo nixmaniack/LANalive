@@ -3,6 +3,17 @@
 #E-mail : muneeb@reversehack.in
 #Created: 20 Jan, 2011
 
+clear
+cnt=$(ping -c 4 google.com | grep "100% packet loss"| wc -l)
+	if [ $cnt = 0 ]; then
+		echo 
+		echo "Your Computer is CONNECTED to the internet."
+		echo
+	else
+		echo 
+		echo "Your Computer is NOT CONNECTED to the internet."
+		echo
+	fi
 
 if [ $# -ne 2 ]
 then
